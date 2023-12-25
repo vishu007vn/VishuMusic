@@ -1,6 +1,6 @@
 import math
 
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.types import InlineKeyboardButton
 
 import config
 from AnonX.utils.formatters import time_to_seconds

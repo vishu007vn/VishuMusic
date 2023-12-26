@@ -52,10 +52,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         bar = "————————◉—"
     else:
         bar = "—————————◉"
-    buttons = [
-        [
-            buttons = [
-        [
+        buttons = [
+            [
            InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ",url="https://t.me/Punjabi_Hindi_Chat"),
         ],
         [

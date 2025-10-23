@@ -54,10 +54,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         bar = "—————————◉"
         buttons = [
             [
-           InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ",url="https://t.me/Punjabi_Hindi_Chat"),
+           InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ",url="https://t.me/pallavisarkaar"),
         ],
         [
-           InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs",url=f"https://t.me/Dhiman_Network",
+           InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs",url=f"https://t.me/",
             ),
            InlineKeyboardButton(text="Oᴡɴᴇʀ",url=f"https://t.me/i_dxlvir",
             ),
@@ -74,12 +74,12 @@ def stream_markup_timer(_, chat_id, played, dur):
 def stream_markup(_, chat_id):
     buttons = [
         [
-           InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ",url="https://t.me/Punjabi_Hindi_Chat"),
+           InlineKeyboardButton(text="🌎 Sᴜᴘᴘᴏʀᴛ 🌎",url="https://t.me/pallavisarkaar"),
         ],
         [
-           InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇs",url=f"https://t.me/Dhiman_Network",
+           InlineKeyboardButton(text="❤️ owner ❤️",url=f"https://t.me/Galiyokabadshah",
             ),
-           InlineKeyboardButton(text="Oᴡɴᴇʀ",url=f"https://t.me/i_dxlvir",
+           InlineKeyboardButton(text="💞 sayari 💞",url=f"https://t.me/shayrirahulki",
             ),
         ],
         [
